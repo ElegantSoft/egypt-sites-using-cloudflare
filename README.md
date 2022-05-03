@@ -210,6 +210,7 @@ You will make users lose trust in many sites, despite there being less than a 1 
 - [alternativeto.net](http://alternativeto.net)
 - [alternet.org](http://alternet.org)
 - [alwafd.org](http://alwafd.org)
+- [شات عاربي](https://www.shabahy.com/)
 - [alwatanvoice.com](http://alwatanvoice.com)
 - [alweeam.com.sa](http://alweeam.com.sa)
 - [amadershomoybd.com](http://amadershomoybd.com)
